@@ -13,9 +13,13 @@ Script em Python que consolida múltiplos arquivos CSV em um único arquivo Exce
 
 ## Estrutura
 projeto/
+
 ├── Inputs/ # Coloque os CSVs aqui
+
 ├── Outputs/ # Onde o arquivo unificado será salvo
+
 ├── uniao.py # Script principal
+
 └── README.md
 
 ## Formato dos arquivos
