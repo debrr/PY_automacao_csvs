@@ -1,6 +1,6 @@
 # União CSVs
 
-Script em Python que consolida múltiplos arquivos CSV em um único arquivo Excel.
+Ferramenta de automação desenvolvida em Python para unir diversos arquivos CSV e gerar uma planilha Excel consolidada.
 
 ## O que faz
 
@@ -14,9 +14,11 @@ Script em Python que consolida múltiplos arquivos CSV em um único arquivo Exce
 ## Estrutura
 ```text
 projeto/
-├── Inputs/      # Coloque os CSVs aqui
-├── Outputs/     # Onde o arquivo unificado será salvo
-├── uniao.py     # Script principal
+├── Inputs/
+│   └── (arquivos CSV)
+├── Outputs/
+│   └── tabela_unificada.xlsx
+├── uniao.py
 └── README.md
 ```
 
