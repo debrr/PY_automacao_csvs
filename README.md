@@ -12,11 +12,14 @@ Script em Python que consolida múltiplos arquivos CSV em um único arquivo Exce
 - Gera um arquivo `tabela_unificada.xlsx` na pasta `Outputs`
 
 ## Estrutura
+```text
 projeto/
-├── Inputs/ # Coloque os CSVs aqui
-├── Outputs/ # Onde o arquivo unificado será salvo
-├── uniao.py # Script principal
+├── Inputs/      # Coloque os CSVs aqui
+├── Outputs/     # Onde o arquivo unificado será salvo
+├── uniao.py     # Script principal
 └── README.md
+```
+
 
 ## Formato dos arquivos
 
