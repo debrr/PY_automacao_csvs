@@ -30,7 +30,5 @@ Os arquivos CSV devem ter:
    ```bash
    pip install pandas openpyxl
 2. Colocar os CSVs na pasta Inputs
-3. Executar:
-  ```bash
-  python uniao.py
+3. Executar script
 4. Obter resultado em Outputs/tabela_unificada.xlsx
